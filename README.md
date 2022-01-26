@@ -12,7 +12,7 @@
   <p>Banco de Dados - PostgreSQL.</p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Nodejs&message=ReactJs&color=blue"/>
+  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=NodeJS&message=NodeJS&color=blue"/>
   <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=PostgreSQL&message=PostgreSQL&color=blue"/>
   <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=TypeScript&message=TypeScript&color=blue"/>
 </p>
